@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Carlos Schmidt 😁
 
  <div>
    <a href="https://github.com/SchmidtCarlos">
@@ -17,7 +17,7 @@
  
 <div> 
   <a href="https://instagram.com/carlos_schmidt_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "c.henriquess@yahoo.com.br"><img src="https://cdn-icons-png.flaticon.com/512/179/179345.png" target="_blank"></a>
+  <a href = "c.henriquess@yahoo.com.br"><img src="https://img.shields.io/badge/yahoo-Send-blueviolet" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carloschmidt2101" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/cadudevemdobro/cadudevemdobro/blob/output/github-contribution-grid-snake.svg)
